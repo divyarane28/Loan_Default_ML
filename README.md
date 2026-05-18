@@ -58,3 +58,9 @@ Among all models, XGBoost performed best based on precision, recall, F1-score, a
 ## 🎯 Key Insights
 - Interest rate and loan burden (`loan_percent_income`) were important factors affecting loan default risk.
 - Higher interest rates showed a higher probability of default in the dataset.
+
+  ## 🎥 Project Demo
+
+🔗 Live App: https://loandefaultml-fevhmxgvmgtkjasacakukw.streamlit.app/
+
+🔗 LinkedIn Post: https://www.linkedin.com/posts/divya-rane-a26254326_machinelearning-datascience-python-ugcPost-7457479066594627584-vrco?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJDLb4BwVO3TRRe7-OGeKUjNbWWzJutvCI
